@@ -1,0 +1,8 @@
+{
+  "name": "dyson-purelink-cloud",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/paolotremadio/dyson-purelink-cloud",
+  "author": "Paolo Tremadio <hello@paolotremadio.com>",
+  "license": "MIT"
+}
